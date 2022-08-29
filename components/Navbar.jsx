@@ -9,7 +9,7 @@ function Navbar() {
         <p>Sell your self storage</p>
         <p>Free Evaluation</p>
         <p>Learn</p>
-        <button className='flex text-black bg-yellow-500 px-2 py-2 rounded-md'>Contact</button>
+        <button className='flex text-black bg-yellow-500 px-2 py-2 rounded-md font-semibold'>Contact</button>
       </div>
     </nav>
   )

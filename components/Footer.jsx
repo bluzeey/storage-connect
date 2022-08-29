@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='flex flex-row justify-around'>
+    <div className='flex flex-row justify-around pt-5 pb-10'>
         <div className='w-1/4'>
            <img className='mb-4' src="./footerLogo.svg"/>
            <p>Nam posuere accumsan porta. Integer id orci sed ante tincidunt tincidunt sit amet sed libero.</p>
