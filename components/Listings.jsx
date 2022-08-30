@@ -3,7 +3,7 @@ import Card from './Card'
 
 function Listings() {
   return (
-    <div className="bg-[url('./Rectangle8.png')] text-white text-center">
+    <div className="bg-[url('/Rectangle8.png')] text-white text-center">
         <h3 className='text-4xl font-semibold mb-5 pt-5'>Active Listing Self Storages</h3>
         <p className='text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tortor sapien sagittis maecenas tincidunt. Quis pretium ornare</p>
         <div className='grid grid-cols-3 justify-items-center items-center m-auto '>

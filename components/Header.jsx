@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 function Header() {
   return (
-    <div className="bg-[url('./Headerbg.png')] bg-cover text-white mb-10">
+    <div className="bg-[url('/Headerbg.png')] bg-cover text-white mb-10">
       <Navbar />
       <div className="flex flex-col justify-center pt-7">
         <h1 className="text-6xl text-center font- mb-2">Self Storage Business</h1>
